@@ -1,0 +1,15 @@
+What are Large Language Models?
+Explain the difference between LoRA and QLoRA.
+What is mixed precision training and how does it improve performance?
+What is Retrieval-Augmented Generation and why is it useful?
+What are the main components of a RAG architecture?
+What is hybrid search in the context of RAG?
+What metrics are used to evaluate RAG systems?
+How can LangChain be used to implement a RAG system?
+What techniques can be used to optimize RAG systems for better performance?
+What is semantic chunking and why is it important?
+How does Flash Attention work?
+What is distributed data parallelization?
+How does reranking improve retrieval results in RAG?
+What are the limitations of LLMs that RAG helps address?
+How do vector databases contribute to RAG systems? 
